@@ -1,6 +1,6 @@
 # Kabui [Charles]{.lighter-title .char-warning}
 [Code - Data - People]{.underline .gradient-underline} | Software Engineering | Data Science | ML/AI | [ToKnow.ai](https://toknow.ai/) | [Oark Library](https://oarklibrary.com/) | [mckabue.com](https://mckabue.com/)\
-[(+254) 707 115 007](tel:+254707115007) | [mckabue@gmail.com](mailto:mckabue@gmail.com) | [linkedin.com/in/mckabue](https://www.linkedin.com/in/mckabue) | [github.com/mckabue](https://github.com/mckabue)
+{{< fa phone-volume >}} [(+254) 707 115 007](tel:+254707115007) | {{< fa at >}} [mckabue@gmail.com](mailto:mckabue@gmail.com) | {{< fa brands linkedin >}} [linkedin.com/in/mckabue](https://www.linkedin.com/in/mckabue) | {{< fa brands github >}} [github.com/mckabue](https://github.com/mckabue)
 
 ## [Pro]{.char-color}file
 Versatile full-stack software engineer with a good track record in android development, frontend engineering, backend development, and startup leadership. Currently contributing to enterprise-level solutions at Microsoft. Expertise in developing scalable, secure, and high-performance software solutions. Founder of Oark Library, a thriving digital educational platform. Committed to continuous learning and innovation in software development, data science, and machine learning.
