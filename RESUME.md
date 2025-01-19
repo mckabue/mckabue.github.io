@@ -66,19 +66,13 @@ Created a platform to publish data driven analysis and research around artificia
 
 ::: {.d-flex .justify-content-between .flex-wrap}
 ### [Oar]{.char-color}k Library (Founder)
-*Jan 2018*
+*Closed  Dec 2024*
 :::
-- Built and scaled a digital educational platform serving 130,000+ users with 250,000+ resources
-- Engineered robust security measures to protect against frequent hack attempts
-- Developed both web and mobile applications, available on Google Play Store
+- Built and scaled a digital educational platform serving 50,000+ users with 400,000+ academic resources
+- Engineered robust security measures to protect against frequent hack attempts and data breaches
+- Developed both web and mobile applications, achieving peak growth of 1,500 new signups per day
 
-**Impact:** 1,500 daily active users; go-to resource for students and professionals in Kenya, [Website](http://oarklibrary.com/)
-
-::: {.d-flex .justify-content-between .flex-wrap}
-### [Sim]{.char-color}plex Router
-*Jan 2018*
-:::
-Developed a platform-agnostic JavaScript router used in Oark Library, [GitHub](https://github.com/McKabue/simplex-router)
+**Impact:** Successfully operated for more than 7 years; became a trusted educational resource hub in Kenya; archived at [Wayback Machine](https://web.archive.org/web/20240917192838/https://oarklibrary.com/)
 
 \newpage
 
