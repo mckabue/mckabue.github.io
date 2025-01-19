@@ -72,7 +72,7 @@ Created a platform to publish data driven analysis and research around artificia
 - Engineered robust security measures to protect against frequent hack attempts and data breaches
 - Developed both web and mobile applications, achieving peak growth of 1,500 new signups per day
 
-**Impact:** Successfully operated for more than 7 years; became a trusted educational resource hub in Kenya; archived at [Wayback Machine](https://web.archive.org/web/20240917192838/https://oarklibrary.com/)
+**Impact:** Successfully operated for more than 7 years; became a trusted educational resource hub in Kenya; archived at [Wayback Machine](https://web.archive.org/web/20240917192838/https://oarklibrary.com/). [Website](https://oarklibrary.com/)
 
 \newpage
 
