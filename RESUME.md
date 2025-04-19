@@ -3,7 +3,8 @@
 {{< fa phone-volume >}} [(+254) 707 115 007](tel:+254707115007) | {{< fa at >}} [mckabue@gmail.com](mailto:mckabue@gmail.com) | {{< fa brands linkedin >}} [linkedin.com/in/mckabue](https://www.linkedin.com/in/mckabue) | {{< fa brands github >}} [github.com/mckabue](https://github.com/mckabue)
 
 ## [Pro]{.char-color}file
-Versatile full-stack software engineer with a good track record in android development, frontend engineering, backend development, and startup leadership. Currently contributing to enterprise-level solutions at Microsoft. Expertise in developing scalable, secure, and high-performance software solutions. Founder of Oark Library, a thriving digital educational platform. Committed to continuous learning and innovation in software development, data science, and machine learning.
+Software engineer with a decade of hands-on experience delivering scalable, secure, and user-centered systems across web, mobile, and cloud platforms. Expertise in android development, front-end engineering, back-end development, and startup leadership. Currently contributing to enterprise-level solutions at Microsoft and actively engaged in data science and AI research.
+
 
 ## [Wor]{.char-color}k Experience
 
@@ -13,7 +14,7 @@ Versatile full-stack software engineer with a good track record in android devel
 :::
 
   - Develop and maintain enterprise components and services used across multiple teams
-  - Contribute to Microsoft's mission of empowering global organizations
+  - Collaborate with global teams to advance Microsoft's mission of digital empowerment
 
 ***Technologies:** ASP.NET MVC, C#, JavaScript, ReactJS, KustoQL*
 
@@ -21,9 +22,9 @@ Versatile full-stack software engineer with a good track record in android devel
 ### [And]{.char-color}roid Software Engineer, [Hava Cab](https://www.linkedin.com/company/hava-cab/about/)
 *Oct 2020 - Apr 2021*
 :::
-- Spearheaded improvements to the driver app, resolving critical bugs and enhancing location accuracy
-- Optimized trip cost calculations, significantly reducing under and over-calculations
-- Supported development of the rider app and server-side components
+ - Improved accuracy and reliability of the driver app under real-world constraints
+ - Refined core trip logic, minimizing cost estimation errors
+ - Supported backend and frontend integration across mobile and web
 
 ***Technologies:** Android, Java, Kotlin, JavaScript, ReactJS*
 
@@ -31,7 +32,7 @@ Versatile full-stack software engineer with a good track record in android devel
 ### [Ful]{.char-color}l-stack Software Engineer, [Maramoja Transport](https://www.linkedin.com/company/maramoja-transport-ltd/)
 *May 2018 - Nov 2020*
 :::
-  - Led development of a corporate marker-checker for client taxi apps (Android and web)
+  - Architected a corporate trip audit tool (marker-checker) used by enterprise clients
   - Maintained NodeJS services powering taxi applications
   - Oversaw maintenance of ReactJS taxi web app and Android client/driver apps
 
@@ -41,8 +42,8 @@ Versatile full-stack software engineer with a good track record in android devel
 ### [Ful]{.char-color}l-stack Software Engineer, [Pageone](https://www.linkedin.com/company/page-one-seo-&-online-marketing-ltd-/)
 *Mar 2016 - Apr 2018*
 :::
-  - Led development of [Daktari.net](https://web.archive.org/web/20190123091300/https://daktari.net/), a comprehensive health portal for patient-doctor connections
-  - Implemented microservices using Azure Webjobs and Azure Functions
+  - Led development of [Daktari.net](https://web.archive.org/web/20190123091300/https://daktari.net/), a healthcare portal connecting patients and doctors
+  - Pioneered serverless architecture with Azure Functions and WebJobs
   - Integrated multiple payment gateways including MPESA API, Stripe, and PayPal
 
 ***Technologies:** ASP.NET MVC CORE, C#, JavaScript, KnockoutJS, Azure*
@@ -51,43 +52,43 @@ Versatile full-stack software engineer with a good track record in android devel
 ### [Fre]{.char-color}elance Software Engineer
 *Jan 2015 - May 2016*
 :::
-  - Developed custom software solutions for various clients, including an insurance report generator
-  - Created WordPress websites and web templates for businesses
+  - Delivered bespoke tools for SMEs, including insurance report systems and web portals
+  - Built and deployed WordPress sites and custom themes
 
 ***Technologies:** C#, WPF, Windows Forms, JavaScript, WordPress, PHP*
 
-## [Key]{.char-color} Projects
+## [Pro]{.char-color}jects & Initiatives
 
 ::: {.d-flex .justify-content-between .flex-wrap}
 ### [ToK]{.char-color}now.ai
-*May 2024*
+*May 2024 - Present*
 :::
-Created a platform to publish data driven analysis and research around artificial intelligence, data science, cyber security, money and other general tech ideas, [Website](https://toknow.ai/)
+A platform for publishing data-driven research and analysis in AI, security, finance, and technology. [Visit Site](https://toknow.ai/)
 
 ::: {.d-flex .justify-content-between .flex-wrap}
 ### [Oar]{.char-color}k Library (Founder)
-*Closed  Dec 2024*
+*2017 - 2024*
 :::
-- Built and scaled a digital educational platform serving 50,000+ users with 400,000+ academic resources
-- Engineered robust security measures to protect against frequent hack attempts and data breaches
-- Developed both web and mobile applications, achieving peak growth of 1,500 new signups per day
+A digital education hub serving over 50,000 users with 400,000+ learning resources. [Archived Site](https://web.archive.org/web/20240917192838/https://oarklibrary.com/)
 
-**Impact:** Successfully operated for more than 7 years; became a trusted educational resource hub in Kenya; archived at [Wayback Machine](https://web.archive.org/web/20240917192838/https://oarklibrary.com/). [Website](https://oarklibrary.com/)
+ - Engineered the platform from scratch - web, mobile, and backend
+ - Designed robust security against repeated cyberattacks
+ - Achieved peak growth of 1,500 daily signups
 
 \newpage
 
 ## [Tec]{.char-color}hnical Proficiencies
 - Languages: *JavaScript, C#, Python, Kotlin, Java*
-- Frontend: *HTML5, SASS, CSS3, ReactJS, VueJS*
+- Frontend: *HTML5, CSS3, SASS, ReactJS, VueJS*
 - Backend: *ASP.NET MVC, NodeJS, Flask*
 - Databases: *MSSQL, MySQL, ElasticSearch, MongoDB, KustoQL, Azure Table*
 - Cloud: *Azure, AWS*
-- Mobile: *Android Development*
+- Mobile: *Native Android Development*
 - Architectures: *Monolithic, Serverless, GraphQL, RestAPI*
 
 ## [Edu]{.char-color}cation
-- Master of Science in Data Science and Analytics, *Strathmore University, Kenya*
-- Bachelor of Science in Software Engineering, *Kisii University, Kenya*
+- MSc Data Science and Analytics - *Strathmore University*
+- BSc Software Engineering - *Kisii University*
 
 ::: {.content-visible when-format="html"}
 <div class="no-print">
@@ -95,6 +96,3 @@ Created a platform to publish data driven analysis and research around artificia
 <hr>
 ![](https://github-readme-stats-ecru-zeta-50.vercel.app/api?username=mckabue&theme=default&show_icons=true&hide_border=true&count_private=true) ![](https://github-readme-stats-ecru-zeta-50.vercel.app/api/top-langs/?username=mckabue&theme=default&show_icons=true&hide_border=true&layout=compact&langs_count=8&)
 </div>
-
-
-
