@@ -69,7 +69,7 @@ A platform for publishing data-driven research and analysis in AI, security, fin
 ### [Oar]{.char-color}k Library (Founder)
 *2017 - 2024*
 :::
-A digital education hub serving over 50,000 users with 400,000+ learning resources. [Archived Site](https://web.archive.org/web/20240917192838/https://oarklibrary.com/)
+A digital education hub serving over 130,000 users with 400,000+ learning resources. [Archived Site](https://web.archive.org/web/20240917192838/https://oarklibrary.com/)
 
  - Engineered the platform from scratch - web, mobile, and backend
  - Designed robust security against repeated cyberattacks
