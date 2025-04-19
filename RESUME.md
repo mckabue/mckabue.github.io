@@ -1,3 +1,11 @@
+::: {.content-visible when-format="html"}
+<div class="d-flex justify-content-center no-print">
+<audio controls="" style="width: 100%; max-width: 600px;">
+<source src="./resume.wav" type="audio/wav"/>
+</audio>
+</div>
+:::
+
 # [Kabui [Charles]{.lighter-title .char-warning} [![](./cycle.jpg)]{.content-visible when-format="html"}]{.profile-img}
 [Code - Data - People]{.underline .gradient-underline} | Software Engineering | Data Science | ML/AI | [ToKnow.ai](https://toknow.ai/) | [Oark Library](https://oarklibrary.com/) | [mckabue.com](https://mckabue.com/)\
 {{< fa phone-volume >}} [(+254) 707 115 007](tel:+254707115007) | {{< fa at >}} [mckabue@gmail.com](mailto:mckabue@gmail.com) | {{< fa brands linkedin >}} [linkedin.com/in/mckabue](https://www.linkedin.com/in/mckabue) | {{< fa brands github >}} [github.com/mckabue](https://github.com/mckabue)
