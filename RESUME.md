@@ -75,7 +75,13 @@ A digital education hub serving over 130,000 users with 400,000+ learning resour
  - Designed robust security against repeated cyberattacks
  - Achieved peak growth of 1,500 daily signups
 
-\newpage
+ \newpage
+
+::: {.d-flex .justify-content-between .flex-wrap}
+### [rea]{.char-color}ct-validate-hook
+*2025 - Present*
+:::
+A lightweight, flexible, and type-safe React form validation hook with zero dependencies. [View on npm](https://www.npmjs.com/package/react-validate-hook)
 
 ## [Tec]{.char-color}hnical Proficiencies
 - Languages: *JavaScript, C#, Python, Kotlin, Java*
@@ -95,10 +101,10 @@ A digital education hub serving over 130,000 users with 400,000+ learning resour
 <div class="no-print">
 <br/>
 <hr>
-<div class="d-flex justify-content-center no-print">
-  <audio controls="" style="width: 100%; max-width: 600px;">
-    <source src="./resume.wav" type="audio/wav"/>
-  </audio>
+<div class="d-flex justify-content-center">
+<audio controls="" style="width: 100%; max-width: 600px;">
+<source src="./resume.wav" type="audio/wav"/>
+</audio>
 </div>
 <br/>
 
