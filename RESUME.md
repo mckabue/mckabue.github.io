@@ -60,6 +60,12 @@ Software engineer with a decade of hands-on experience delivering scalable, secu
 ## [Pro]{.char-color}jects & Initiatives
 
 ::: {.d-flex .justify-content-between .flex-wrap}
+### [Blo]{.char-color}ber.io
+*Dec 2025 - Present*
+:::
+A local-first workflow engine for cloud storage transfers with metadata-aware path organization. The easiest way to transfer files between cloud providers. [Visit Site](https://blober.io/)
+
+::: {.d-flex .justify-content-between .flex-wrap}
 ### [ToK]{.char-color}now.ai
 *May 2024 - Present*
 :::
