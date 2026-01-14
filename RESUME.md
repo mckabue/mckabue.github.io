@@ -66,10 +66,18 @@ Software engineer with a decade of hands-on experience delivering scalable, secu
 A local-first workflow engine for cloud storage transfers with metadata-aware path organization. The easiest way to transfer files between cloud providers. [Visit Site](https://blober.io/)
 
 ::: {.d-flex .justify-content-between .flex-wrap}
+### [rea]{.char-color}ct-validate-hook
+*2025 - Present*
+:::
+A lightweight, flexible, and type-safe React form validation hook with zero dependencies. [View on npm](https://www.npmjs.com/package/react-validate-hook)
+
+::: {.d-flex .justify-content-between .flex-wrap}
 ### [ToK]{.char-color}now.ai
 *May 2024 - Present*
 :::
 A platform for publishing data-driven research and analysis in AI, security, finance, and technology. [Visit Site](https://toknow.ai/)
+
+\newpage
 
 ::: {.d-flex .justify-content-between .flex-wrap}
 ### [Oar]{.char-color}k Library (Founder)
@@ -81,13 +89,6 @@ A digital education hub serving over 130,000 users with 400,000+ learning resour
  - Designed robust security against repeated cyberattacks
  - Achieved peak growth of 1,500 daily signups
 
- \newpage
-
-::: {.d-flex .justify-content-between .flex-wrap}
-### [rea]{.char-color}ct-validate-hook
-*2025 - Present*
-:::
-A lightweight, flexible, and type-safe React form validation hook with zero dependencies. [View on npm](https://www.npmjs.com/package/react-validate-hook)
 
 ## [Tec]{.char-color}hnical Proficiencies
 - Languages: *JavaScript, C#, Python, Kotlin, Java*
