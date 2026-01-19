@@ -106,16 +106,12 @@ A digital education hub serving over 130,000 users with 400,000+ learning resour
 
 ::: {.content-visible when-format="html"}
 <div class="no-print">
-<br/>
 <hr>
-<div class="d-flex justify-content-center">
-<audio controls="" style="width: 100%; max-width: 600px;">
-<source src="./resume.wav" type="audio/wav"/>
-</audio>
-</div>
-<br/>
 
 ![](https://github-readme-stats-ecru-zeta-50.vercel.app/api?username=mckabue&theme=default&show_icons=true&hide_border=true&count_private=true) ![](https://github-readme-stats-ecru-zeta-50.vercel.app/api/top-langs/?username=mckabue&theme=default&show_icons=true&hide_border=true&layout=compact&langs_count=8&)
-
+<br/>
+<div class="d-flex justify-content-center">
+{{< video https://youtu.be/ZaaDn5T-Svw >}}
+</div>
 </div>
 :::
