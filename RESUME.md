@@ -66,16 +66,28 @@ Software engineer with a decade of hands-on experience delivering scalable, secu
 A local-first workflow engine for cloud storage transfers with metadata-aware path organization. The easiest way to transfer files between cloud providers. [Visit Site](https://blober.io/)
 
 ::: {.d-flex .justify-content-between .flex-wrap}
-### [rea]{.char-color}ct-validate-hook
-*2025 - Present*
-:::
-A lightweight, flexible, and type-safe React form validation hook with zero dependencies. [View on npm](https://www.npmjs.com/package/react-validate-hook)
-
-::: {.d-flex .justify-content-between .flex-wrap}
 ### [ToK]{.char-color}now.ai
 *May 2024 - Present*
 :::
 A platform for publishing data-driven research and analysis in AI, security, finance, and technology. [Visit Site](https://toknow.ai/)
+
+::: {.d-flex .justify-content-between .flex-wrap}
+### [@mc]{.char-color}kabue/react-validate
+*2025 - Present*
+:::
+A lightweight, flexible, and type-safe React form validation hook with zero dependencies. [View on npm](https://www.npmjs.com/package/@mckabue/react-validate)
+
+::: {.d-flex .justify-content-between .flex-wrap}
+### [@mc]{.char-color}kabue/react-use-async
+*2026 - Present*
+:::
+A React hook for managing async operations with loading states, error handling, and data merging. [View on npm](https://www.npmjs.com/package/@mckabue/react-use-async)
+
+::: {.d-flex .justify-content-between .flex-wrap}
+### [@mc]{.char-color}kabue/no-same-type-params
+*2026 - Present*
+:::
+An ESLint rule that disallows consecutive function parameters sharing the same type annotation. [View on npm](https://www.npmjs.com/package/@mckabue/no-same-type-params)
 
 \newpage
 
