@@ -89,8 +89,6 @@ A React hook for managing async operations with loading states, error handling, 
 :::
 An ESLint rule that disallows consecutive function parameters sharing the same type annotation. [View on npm](https://www.npmjs.com/package/@mckabue/no-same-type-params)
 
-\newpage
-
 ::: {.d-flex .justify-content-between .flex-wrap}
 ### [Oar]{.char-color}k Library (Founder)
 *2017 - 2024*
