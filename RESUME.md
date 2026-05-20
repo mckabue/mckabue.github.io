@@ -13,6 +13,7 @@ Software engineer with a decade of hands-on experience delivering scalable, secu
 *Apr 2021 - Present*
 :::
 
+  - Build AI-powered experiences and contribute to the development of Microsoft Copilot
   - Develop and maintain enterprise components and services used across multiple teams
   - Collaborate with global teams to advance Microsoft's mission of digital empowerment
 
