@@ -3,7 +3,7 @@
 {{< fa at >}} [mckabue@gmail.com](mailto:mckabue@gmail.com) | {{< fa brands linkedin >}} [linkedin.com/in/mckabue](https://www.linkedin.com/in/mckabue) | {{< fa brands github >}} [github.com/mckabue](https://github.com/mckabue)
 
 ## [Pro]{.char-color}file
-Ten years building software, three thinking seriously about data. Currently building AI-powered, agentic experiences in M365 Copilot at Microsoft. Before that I founded Oark Library. I grew it from nothing to 130,000 users and 400,000 resources, hired the team, and kept it running through repeated attacks. I hold an MSc in Data Science from Strathmore. I write at ToKnow.ai and build tools at Blober.io.
+Ten years building software. Currently building AI-powered, agentic experiences in M365 Copilot at Microsoft. Before that I founded Oark Library. I grew it from nothing to 130,000 users and 400,000 resources, hired the team, and kept it running through repeated attacks. I hold an MSc in Data Science from Strathmore. I write at ToKnow.ai and build tools at Blober.io.
 
 
 ## [Wor]{.char-color}k Experience
