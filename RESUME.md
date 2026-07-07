@@ -1,30 +1,40 @@
 # [Kabui [Charles]{.lighter-title .char-warning} [![](./cycle.jpg)]{.content-visible when-format="html"}]{.profile-img}
-[Code - Data - People]{.underline .gradient-underline} | Software Engineering | Data Science | ML/AI | [ToKnow.ai](https://toknow.ai/) | [Oark Library](https://oarklibrary.com/) | [mckabue.com](https://mckabue.com/)\
+[Founder & Engineer]{.underline .gradient-underline} | [ToKnow.ai](https://toknow.ai/) | [Blober.io](https://blober.io/) | [mckabue.com](https://mckabue.com/)\
 {{< fa at >}} [mckabue@gmail.com](mailto:mckabue@gmail.com) | {{< fa brands linkedin >}} [linkedin.com/in/mckabue](https://www.linkedin.com/in/mckabue) | {{< fa brands github >}} [github.com/mckabue](https://github.com/mckabue)
 
 ## [Pro]{.char-color}file
-Software engineer with a decade of hands-on experience delivering scalable, secure, and user-centered systems across web, mobile, and cloud platforms. Expertise in android development, front-end engineering, back-end development, and startup leadership. Currently contributing to enterprise-level solutions at Microsoft and actively engaged in data science and AI research.
+Ten years building software, three thinking seriously about data. Currently building AI-powered, agentic experiences in M365 Copilot at Microsoft. Before that I founded Oark Library. I grew it from nothing to 130,000 users and 400,000 resources, hired the team, and kept it running through repeated attacks. I hold an MSc in Data Science from Strathmore. I write at ToKnow.ai and build tools at Blober.io.
 
 
 ## [Wor]{.char-color}k Experience
 
 ::: {.d-flex .justify-content-between .flex-wrap}
-### [Ful]{.char-color}l-stack Software Engineer, [Microsoft](https://www.linkedin.com/company/microsoft/)
+### [Fou]{.char-color}nder, [Oark](https://www.linkedin.com/company/oarklimited/)
+*2017 - Present*
+:::
+  - Currently shipping ToKnow.ai and Blober.io
+  - Previously built Oark Library from nothing to 130,000 users; archived in 2024
+
+***Technologies:** TypeScript, React, Python, Node.js, Azure, AWS*
+
+::: {.d-flex .justify-content-between .flex-wrap}
+### [Sof]{.char-color}tware Engineer, [Microsoft](https://www.linkedin.com/company/microsoft/)
 *Apr 2021 - Present*
 :::
 
-  - Build AI-powered experiences and contribute to the development of Microsoft Copilot
-  - Develop and maintain enterprise components and services used across multiple teams
-  - Collaborate with global teams to advance Microsoft's mission of digital empowerment
+  - Building AI-powered, agentic experiences in M365 Copilot: Researcher, Copilot Chat, and the shared infrastructure underneath
+  - Own architectural decisions for shared components that multiple product teams depend on
+  - Design and ship streaming UI: token-by-token rendering, agent step inspection, partial state recovery, and cancellation at conversational scale
+  - Mentor engineers through complex production problems
 
-***Technologies:** ASP.NET MVC, C#, JavaScript, ReactJS, KustoQL*
+***Technologies:** ASP.NET, C#, TypeScript, React, Azure, KustoQL*
 
 ::: {.d-flex .justify-content-between .flex-wrap}
 ### [And]{.char-color}roid Software Engineer, [Hava Cab](https://www.linkedin.com/company/hava-cab/about/)
 *Oct 2020 - Apr 2021*
 :::
  - Improved accuracy and reliability of the driver app under real-world constraints
- - Refined core trip logic, minimizing cost estimation errors
+ - Refined core trip logic, which cut cost estimation errors
  - Supported backend and frontend integration across mobile and web
 
 ***Technologies:** Android, Java, Kotlin, JavaScript, ReactJS*
@@ -34,8 +44,8 @@ Software engineer with a decade of hands-on experience delivering scalable, secu
 *May 2018 - Nov 2020*
 :::
   - Architected a corporate trip audit tool (marker-checker) used by enterprise clients
-  - Maintained NodeJS services powering taxi applications
-  - Oversaw maintenance of ReactJS taxi web app and Android client/driver apps
+  - Maintained the Node.js services behind the taxi platform
+  - Maintained the React web app and Android apps for clients and drivers
 
 ***Technologies:** JavaScript, ReactJS, NodeJS, Android, Java, MySQL*
 
@@ -43,20 +53,24 @@ Software engineer with a decade of hands-on experience delivering scalable, secu
 ### [Ful]{.char-color}l-stack Software Engineer, [Pageone](https://www.linkedin.com/company/page-one-seo-&-online-marketing-ltd-/)
 *Mar 2016 - Apr 2018*
 :::
-  - Led development of [Daktari.net](https://web.archive.org/web/20190123091300/https://daktari.net/), a healthcare portal connecting patients and doctors
-  - Pioneered serverless architecture with Azure Functions and WebJobs
-  - Integrated multiple payment gateways including MPESA API, Stripe, and PayPal
+  - Led development of [Daktari.net](https://web.archive.org/web/20190123091300/https://daktari.net/), a healthcare portal that connected patients and doctors across Kenya
+  - Pushed early into serverless on Azure Functions and WebJobs before it was the obvious choice
+  - Integrated MPESA, Stripe, and PayPal into a production platform; payment APIs fail in ways their documentation does not cover
 
-***Technologies:** ASP.NET MVC CORE, C#, JavaScript, KnockoutJS, Azure*
+***Technologies:** ASP.NET MVC, C#, JavaScript, KnockoutJS, Azure*
 
 ::: {.d-flex .justify-content-between .flex-wrap}
 ### [Fre]{.char-color}elance Software Engineer
 *Jan 2015 - May 2016*
 :::
-  - Delivered bespoke tools for SMEs, including insurance report systems and web portals
-  - Built and deployed WordPress sites and custom themes
+  - Built bespoke tooling for SMEs: insurance report systems and web portals
+  - Delivered WordPress sites and custom themes
 
 ***Technologies:** C#, WPF, Windows Forms, JavaScript, WordPress, PHP*
+
+::: {.content-visible when-format="pdf"}
+\newpage
+:::
 
 ## [Pro]{.char-color}jects & Initiatives
 
@@ -64,13 +78,13 @@ Software engineer with a decade of hands-on experience delivering scalable, secu
 ### [Blo]{.char-color}ber.io
 *Dec 2025 - Present*
 :::
-A local-first workflow engine for cloud storage transfers with metadata-aware path organization. The easiest way to transfer files between cloud providers. [Visit Site](https://blober.io/)
+A local-first workflow engine for cloud storage transfers with metadata-aware path organisation. Users wire up source and destination providers (S3, Azure Blob, Google Drive, Dropbox), define how files should be reorganised on arrival, and run the transfer locally. Credentials never leave their machine. [Visit Site](https://blober.io/)
 
 ::: {.d-flex .justify-content-between .flex-wrap}
 ### [ToK]{.char-color}now.ai
 *May 2024 - Present*
 :::
-A platform for publishing data-driven research and analysis in AI, security, finance, and technology. [Visit Site](https://toknow.ai/)
+Where I write about AI, security, finance, and technology. [Visit Site](https://toknow.ai/)
 
 ::: {.d-flex .justify-content-between .flex-wrap}
 ### [@mc]{.char-color}kabue/react-validate
@@ -94,11 +108,16 @@ An ESLint rule that disallows consecutive function parameters sharing the same t
 ### [Oar]{.char-color}k Library (Founder)
 *2017 - 2024*
 :::
-A digital education hub serving over 130,000 users with 400,000+ learning resources. [Archived Site](https://web.archive.org/web/20240917192838/https://oarklibrary.com/)
+A digital education hub I built from nothing. It grew to 130,000 users, 400,000 resources, and a peak of 1,500 new signups a day, with almost no marketing budget. [Archived Site](https://web.archive.org/web/20240917192838/https://oarklibrary.com/)
 
- - Engineered the platform from scratch - web, mobile, and backend
- - Designed robust security against repeated cyberattacks
- - Achieved peak growth of 1,500 daily signups
+ - Engineered the platform end-to-end: web, mobile, and backend
+ - Hired and led the engineering team
+ - Kept the platform and user data secure through repeated attacks
+
+## [Edu]{.char-color}cation
+
+- MSc Data Science and Analytics, [Strathmore University](https://strathmore.edu/)
+- BSc Software Engineering, [Kisii University](https://kisii.ac.ke/)
 
 
 ## [Tec]{.char-color}hnical Proficiencies
@@ -109,11 +128,6 @@ A digital education hub serving over 130,000 users with 400,000+ learning resour
 - Cloud: *Azure, AWS*
 - Mobile: *Native Android Development*
 - Architectures: *Monolithic, Serverless, GraphQL, RestAPI*
-
-## [Edu]{.char-color}cation
-- MSc Data Science and Analytics - *Strathmore University*
-- BSc Software Engineering - *Kisii University*
-
 
 ::: {.content-visible when-format="html"}
 <div class="no-print">

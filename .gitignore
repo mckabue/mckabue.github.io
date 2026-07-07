@@ -7,5 +7,7 @@ site_libs/
 RESUME.aux
 RESUME.log
 RESUME.tex
+personal/
 
 /.luarc.json
+.DS_Store

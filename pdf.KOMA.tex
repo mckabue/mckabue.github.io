@@ -7,31 +7,35 @@
 
 % Set page geometry
 \usepackage[
-  top=0.5in,
-  bottom=0.5in,
-  left=0.5in,
-  right=0.5in,
+  top=0.65in,
+  bottom=0.65in,
+  left=0.6in,
+  right=0.6in,
   footskip=0pt, % Eliminates the space reserved for the footer
   nofoot % Ensures that no footer is placed at the bottom of the page.
 ]{geometry}
 \pagenumbering{gobble}  % This disables page numbering
 
-% % Adjust line spacing
-% \usepackage{setspace}
-% \setstretch{0.95}
+% Line spacing — slightly open for readability
+\usepackage{setspace}
+\setstretch{1.12}
 
 % Configure headers and footers
 \clearpairofpagestyles
 \cfoot[\pagemark]{\pagemark}
 
-% Create compact lists
-\setlist{noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt}
+% List breathing room
+\setlist{itemsep=3pt, topsep=4pt, parsep=0pt, partopsep=0pt}
 
-% Adjust vertical space before and after sections
+% Section and subsection spacing + thin rule under section headings
 \usepackage{titlesec}
-\titlespacing*{\section}{0pt}{0pt}{0.3\baselineskip}
-\titlespacing*{\subsection}{0pt}{0.4\baselineskip}{0.2\baselineskip}
-% \titlespacing*{\subsubsection}{0pt}{0pt}{0pt}
+\titleformat{\section}{\large\bfseries}{}{0em}{}
+  [\vspace{3pt}{\color{gray!55}\hrule height 0.4pt}\vspace{1pt}]
+\titlespacing*{\section}{0pt}{0.9\baselineskip}{0.4\baselineskip}
+\titlespacing*{\subsection}{0pt}{0.65\baselineskip}{0.2\baselineskip}
+
+% Paragraph gap between job blocks
+\setlength{\parskip}{3pt}
 
 \definecolor{backgroundColor}{HTML}{edeceb}
 

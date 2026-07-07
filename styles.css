@@ -48,6 +48,21 @@ h3, .h3, h4, .h4 {
     margin-top: 0;
 }
 
+h2 {
+    margin-top: 2rem;
+    padding-top: 0.25rem;
+    border-top: 1px solid var(--bs-border-color);
+}
+
+.d-flex + p,
+.d-flex + ul {
+    margin-top: 0.15rem;
+}
+
+.d-flex {
+    margin-bottom: 0.1rem;
+}
+
 .gradient-underline {
   text-decoration: none !important;
   background-image: linear-gradient(90deg, var(--bs-pink), var(--bs-warning));
