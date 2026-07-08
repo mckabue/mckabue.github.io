@@ -3,7 +3,7 @@
 {{< fa at >}} [mckabue@gmail.com](mailto:mckabue@gmail.com) | {{< fa brands linkedin >}} [linkedin.com/in/mckabue](https://www.linkedin.com/in/mckabue) | {{< fa brands github >}} [github.com/mckabue](https://github.com/mckabue)
 
 ## [Pro]{.char-color}file
-Ten years building software. Currently building AI-powered, agentic experiences in M365 Copilot at Microsoft. Before that I founded Oark Library. I grew it from nothing to 130,000 users and 400,000 resources, hired the team, and kept it running through repeated attacks. I hold an MSc in Data Science from Strathmore. I write at ToKnow.ai and build tools at Blober.io.
+Ten years building software. Currently building AI-powered, agentic experiences in M365 Copilot at Microsoft. Before that, I founded Oark Library. I grew it to 130,000 users and 400,000 resources, hired the team, and kept it running until 2024. I hold an MSc in Data Science from Strathmore. I write at ToKnow.ai and build tools such as Blober.io.
 
 
 ## [Wor]{.char-color}k Experience
@@ -106,7 +106,7 @@ An ESLint rule that disallows consecutive function parameters sharing the same t
 ### [Oar]{.char-color}k Library (Founder)
 *2017 - 2024*
 :::
-A digital education hub I built from nothing. It grew to 130,000 users, 400,000 resources, and a peak of 1,500 new signups a day, with almost no marketing budget. [Archived Site](https://web.archive.org/web/20240917192838/https://oarklibrary.com/)
+A digital education hub I built from scratch. It grew to 130,000 users, 400,000 resources, and a peak of 1,500 new signups a day, with almost no marketing budget. [Archived Site](https://web.archive.org/web/20240917192838/https://oarklibrary.com/)
 
  - Engineered the platform end-to-end: web, mobile, and backend
  - Hired and led the engineering team
