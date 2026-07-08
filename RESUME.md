@@ -18,14 +18,12 @@ Ten years building software. Currently building AI-powered, agentic experiences 
 ***Technologies:** TypeScript, React, Python, Node.js, Azure, AWS*
 
 ::: {.d-flex .justify-content-between .flex-wrap}
-### [Sof]{.char-color}tware Engineer, [Microsoft](https://www.linkedin.com/company/microsoft/)
+### [Ful]{.char-color}l-stack Software Engineer, [Microsoft](https://www.linkedin.com/company/microsoft/)
 *Apr 2021 - Present*
 :::
 
   - Building AI-powered, agentic experiences in M365 Copilot: Researcher, Copilot Chat, and the shared infrastructure underneath
-  - Own architectural decisions for shared components that multiple product teams depend on
-  - Design and ship streaming UI: token-by-token rendering, agent step inspection, partial state recovery, and cancellation at conversational scale
-  - Mentor engineers through complex production problems
+  - Develop and maintain enterprise components and services used across multiple teams
 
 ***Technologies:** ASP.NET, C#, TypeScript, React, Azure, KustoQL*
 
