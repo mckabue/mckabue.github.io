@@ -12,8 +12,8 @@ Ten years building software. Currently building AI-powered, agentic experiences 
 ### [Fou]{.char-color}nder, [Oark](https://oarklimited.com/)
 *2017 - Present*
 :::
-  - Currently working on [ToKnow.ai](https://toknow.ai/) and [Blober.io](https://blober.io/)
-  - Previously built Oark Library from nothing to 130,000 users; archived in 2024
+  - Working on [ToKnow.ai](https://toknow.ai/) and [Blober.io](https://blober.io/)
+  - Previously built Oark Library to 130,000 users; archived in 2024
 
 ***Technologies:** TypeScript, React, Python, Node.js, Azure, AWS*
 
