@@ -3,27 +3,27 @@
 {{< fa at >}} [mckabue@gmail.com](mailto:mckabue@gmail.com) | {{< fa brands linkedin >}} [linkedin.com/in/mckabue](https://www.linkedin.com/in/mckabue) | {{< fa brands github >}} [github.com/mckabue](https://github.com/mckabue)
 
 ## [Pro]{.char-color}file
-Ten years building software. Currently building AI-powered, agentic experiences in M365 Copilot at Microsoft. Before that, I founded Oark Library. I grew it to 130,000 users and 400,000 resources, hired the team, and kept it running until 2024. I hold an MSc in Data Science from Strathmore. I write at ToKnow.ai and build tools such as Blober.io.
+Ten years building software. I now work full-time on Oark, writing at ToKnow.ai and building Blober.io. Before that, I spent five years at Microsoft building AI-powered, agentic experiences in M365 Copilot. Earlier I founded Oark Library and grew it to 130,000 users and 400,000 resources before archiving it in 2024. I hold an MSc in Data Science from Strathmore.
 
 
 ## [Wor]{.char-color}k Experience
 
 ::: {.d-flex .justify-content-between .flex-wrap}
 ### [Fou]{.char-color}nder, [Oark](https://oarklimited.com/)
-*2017 - Present*
+*2026 - Present*
 :::
-  - Working on [ToKnow.ai](https://toknow.ai/) and [Blober.io](https://blober.io/)
+  - Writing at [ToKnow.ai](https://toknow.ai/) and building [Blober.io](https://blober.io/)
   - Previously built Oark Library to 130,000 users; archived in 2024
 
 ***Technologies:** TypeScript, React, Python, Node.js, Azure, AWS*
 
 ::: {.d-flex .justify-content-between .flex-wrap}
 ### [Ful]{.char-color}l-stack Software Engineer, [Microsoft](https://www.linkedin.com/company/microsoft/)
-*Apr 2021 - Present*
+*Apr 2021 - Jul 2026*
 :::
 
-  - Building AI-powered, agentic experiences in M365 Copilot: Researcher, Copilot Chat, and the shared infrastructure underneath
-  - Develop and maintain enterprise components and services used across multiple teams
+  - Built AI-powered, agentic experiences in M365 Copilot: Researcher, Copilot Chat, and the shared infrastructure underneath
+  - Developed and maintained enterprise components and services used across multiple teams
 
 ***Technologies:** ASP.NET, C#, TypeScript, React, Azure, KustoQL*
 
