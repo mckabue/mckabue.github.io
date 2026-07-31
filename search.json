@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Kabui Charles ",
+    "section": "",
+    "text": "Founder & Engineer | ToKnow.ai | Blober.io | mckabue.com\n mckabue@gmail.com |  linkedin.com/in/mckabue |  github.com/mckabue\n\n\nTen years building software. I now work full-time on Oark, writing at ToKnow.ai and building Blober.io. Before that, I spent five years at Microsoft building AI-powered, agentic experiences in M365 Copilot. Earlier I founded Oark Library and grew it to 130,000 users and 400,000 resources before archiving it in 2024. I hold an MSc in Data Science from Strathmore.\n\n\n\n\n\nJul 2026 - Present\n\n\nWriting at ToKnow.ai and building Blober.io\nPreviously built Oark Library to 130,000 users; archived in 2024\n\nTechnologies: TypeScript, React, Python, Node.js, Azure, AWS\n\n\nApr 2021 - Jul 2026\n\n\nBuilt AI-powered, agentic experiences in M365 Copilot: Researcher, Copilot Chat, and the shared infrastructure underneath\nDeveloped and maintained enterprise components and services used across multiple teams\n\nTechnologies: ASP.NET, C#, TypeScript, React, Azure, KustoQL\n\n\nOct 2020 - Apr 2021\n\n\nImproved accuracy and reliability of the driver app under real-world constraints\nRefined core trip logic, which cut cost estimation errors\nSupported backend and frontend integration across mobile and web\n\nTechnologies: Android, Java, Kotlin, JavaScript, ReactJS\n\n\nMay 2018 - Nov 2020\n\n\nArchitected a corporate trip audit tool (marker-checker) used by enterprise clients\nMaintained the Node.js services behind the taxi platform\nMaintained the React web app and Android apps for clients and drivers\n\nTechnologies: JavaScript, ReactJS, NodeJS, Android, Java, MySQL\n\n\nMar 2016 - Apr 2018\n\n\nLed development of Daktari.net, a healthcare portal that connected patients and doctors across Kenya\nPushed early into serverless on Azure Functions and WebJobs before it was the obvious choice\nIntegrated MPESA, Stripe, and PayPal into a production platform; payment APIs fail in ways their documentation does not cover\n\nTechnologies: ASP.NET MVC, C#, JavaScript, KnockoutJS, Azure\n\n\nJan 2015 - May 2016\n\n\nBuilt bespoke tooling for SMEs: insurance report systems and web portals\nDelivered WordPress sites and custom themes\n\nTechnologies: C#, WPF, Windows Forms, JavaScript, WordPress, PHP\n\n\n\n\n\nDec 2025 - Present\n\nA local-first workflow engine for cloud storage transfers with metadata-aware path organisation. Users wire up source and destination providers (S3, Azure Blob, Google Drive, Dropbox), define how files should be reorganised on arrival, and run the transfer locally. Credentials never leave their machine. Visit Site\n\n\nMay 2024 - Present\n\nWhere I write about AI, security, finance, and technology. Visit Site\n\n\n2025 - Present\n\nA lightweight, flexible, and type-safe React form validation hook with zero dependencies. View on npm\n\n\n2026 - Present\n\nA React hook for managing async operations with loading states, error handling, and data merging. View on npm\n\n\n2026 - Present\n\nAn ESLint rule that disallows consecutive function parameters sharing the same type annotation. View on npm\n\n\n2017 - 2024\n\nA digital education hub I built from scratch. It grew to 130,000 users, 400,000 resources, and a peak of 1,500 new signups a day, with almost no marketing budget. Archived Site\n\nEngineered the platform end-to-end: web, mobile, and backend\nHired and led the engineering team\nKept the platform and user data secure through repeated attacks\n\n\n\n\n\nMSc Data Science and Analytics, Strathmore University\nBSc Software Engineering, Kisii University\n\n\n\n\n\nLanguages: JavaScript, C#, Python, Kotlin, Java\nFrontend: HTML5, CSS3, SASS, ReactJS, VueJS\nBackend: ASP.NET MVC, NodeJS, Flask\nDatabases: MSSQL, MySQL, ElasticSearch, MongoDB, KustoQL, Azure Table\nCloud: Azure, AWS\nMobile: Native Android Development\nArchitectures: Monolithic, Serverless, GraphQL, RestAPI\n\n\n\n  \n\n\n\n\n:::"
+  },
+  {
+    "objectID": "index.html#profile",
+    "href": "index.html#profile",
+    "title": "Kabui Charles ",
+    "section": "",
+    "text": "Ten years building software. I now work full-time on Oark, writing at ToKnow.ai and building Blober.io. Before that, I spent five years at Microsoft building AI-powered, agentic experiences in M365 Copilot. Earlier I founded Oark Library and grew it to 130,000 users and 400,000 resources before archiving it in 2024. I hold an MSc in Data Science from Strathmore."
+  },
+  {
+    "objectID": "index.html#work-experience",
+    "href": "index.html#work-experience",
+    "title": "Kabui Charles ",
+    "section": "",
+    "text": "Jul 2026 - Present\n\n\nWriting at ToKnow.ai and building Blober.io\nPreviously built Oark Library to 130,000 users; archived in 2024\n\nTechnologies: TypeScript, React, Python, Node.js, Azure, AWS\n\n\nApr 2021 - Jul 2026\n\n\nBuilt AI-powered, agentic experiences in M365 Copilot: Researcher, Copilot Chat, and the shared infrastructure underneath\nDeveloped and maintained enterprise components and services used across multiple teams\n\nTechnologies: ASP.NET, C#, TypeScript, React, Azure, KustoQL\n\n\nOct 2020 - Apr 2021\n\n\nImproved accuracy and reliability of the driver app under real-world constraints\nRefined core trip logic, which cut cost estimation errors\nSupported backend and frontend integration across mobile and web\n\nTechnologies: Android, Java, Kotlin, JavaScript, ReactJS\n\n\nMay 2018 - Nov 2020\n\n\nArchitected a corporate trip audit tool (marker-checker) used by enterprise clients\nMaintained the Node.js services behind the taxi platform\nMaintained the React web app and Android apps for clients and drivers\n\nTechnologies: JavaScript, ReactJS, NodeJS, Android, Java, MySQL\n\n\nMar 2016 - Apr 2018\n\n\nLed development of Daktari.net, a healthcare portal that connected patients and doctors across Kenya\nPushed early into serverless on Azure Functions and WebJobs before it was the obvious choice\nIntegrated MPESA, Stripe, and PayPal into a production platform; payment APIs fail in ways their documentation does not cover\n\nTechnologies: ASP.NET MVC, C#, JavaScript, KnockoutJS, Azure\n\n\nJan 2015 - May 2016\n\n\nBuilt bespoke tooling for SMEs: insurance report systems and web portals\nDelivered WordPress sites and custom themes\n\nTechnologies: C#, WPF, Windows Forms, JavaScript, WordPress, PHP"
+  },
+  {
+    "objectID": "index.html#projects-initiatives",
+    "href": "index.html#projects-initiatives",
+    "title": "Kabui Charles ",
+    "section": "",
+    "text": "Dec 2025 - Present\n\nA local-first workflow engine for cloud storage transfers with metadata-aware path organisation. Users wire up source and destination providers (S3, Azure Blob, Google Drive, Dropbox), define how files should be reorganised on arrival, and run the transfer locally. Credentials never leave their machine. Visit Site\n\n\nMay 2024 - Present\n\nWhere I write about AI, security, finance, and technology. Visit Site\n\n\n2025 - Present\n\nA lightweight, flexible, and type-safe React form validation hook with zero dependencies. View on npm\n\n\n2026 - Present\n\nA React hook for managing async operations with loading states, error handling, and data merging. View on npm\n\n\n2026 - Present\n\nAn ESLint rule that disallows consecutive function parameters sharing the same type annotation. View on npm\n\n\n2017 - 2024\n\nA digital education hub I built from scratch. It grew to 130,000 users, 400,000 resources, and a peak of 1,500 new signups a day, with almost no marketing budget. Archived Site\n\nEngineered the platform end-to-end: web, mobile, and backend\nHired and led the engineering team\nKept the platform and user data secure through repeated attacks"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Kabui Charles ",
+    "section": "",
+    "text": "MSc Data Science and Analytics, Strathmore University\nBSc Software Engineering, Kisii University"
+  },
+  {
+    "objectID": "index.html#technical-proficiencies",
+    "href": "index.html#technical-proficiencies",
+    "title": "Kabui Charles ",
+    "section": "",
+    "text": "Languages: JavaScript, C#, Python, Kotlin, Java\nFrontend: HTML5, CSS3, SASS, ReactJS, VueJS\nBackend: ASP.NET MVC, NodeJS, Flask\nDatabases: MSSQL, MySQL, ElasticSearch, MongoDB, KustoQL, Azure Table\nCloud: Azure, AWS\nMobile: Native Android Development\nArchitectures: Monolithic, Serverless, GraphQL, RestAPI\n\n\n\n  \n\n\n\n\n:::"
+  }
+]
