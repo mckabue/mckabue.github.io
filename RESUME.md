@@ -10,7 +10,7 @@ Ten years building software. I now work full-time on Oark, writing at ToKnow.ai 
 
 ::: {.d-flex .justify-content-between .flex-wrap}
 ### [Fou]{.char-color}nder, [Oark](https://oarklimited.com/)
-*2026 - Present*
+*Jul 2026 - Present*
 :::
   - Writing at [ToKnow.ai](https://toknow.ai/) and building [Blober.io](https://blober.io/)
   - Previously built Oark Library to 130,000 users; archived in 2024
