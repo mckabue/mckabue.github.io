@@ -140,9 +140,6 @@ A digital library for academic and educational resources, built from scratch. It
 <hr>
 
 ![](https://github-readme-stats-ecru-zeta-50.vercel.app/api?username=mckabue&theme=default&show_icons=true&hide_border=true&count_private=true) ![](https://github-readme-stats-ecru-zeta-50.vercel.app/api/top-langs/?username=mckabue&theme=default&show_icons=true&hide_border=true&layout=compact&langs_count=8&)
-<br/>
-<div class="d-flex justify-content-center">
-{{< video https://youtu.be/ZaaDn5T-Svw >}}
-</div>
+
 </div>
 :::
