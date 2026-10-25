@@ -1,9 +1,9 @@
 # [Kabui [Charles]{.lighter-title .char-warning} [![](./cycle.jpg)]{.content-visible when-format="html"}]{.profile-img}
-[Founder & Engineer]{.underline .gradient-underline} | [ToKnow.ai](https://toknow.ai/) | [Blober.io](https://blober.io/) | [mckabue.com](https://mckabue.com/)\
+[Founder & Engineer]{.underline .gradient-underline} | [iTax Help](https://itax.ke/) | [ToKnow.ai](https://toknow.ai/) | [Blober.io](https://blober.io/) | [mckabue.com](https://mckabue.com/)\
 {{< fa at >}} [mckabue@gmail.com](mailto:mckabue@gmail.com) | {{< fa brands linkedin >}} [linkedin.com/in/mckabue](https://www.linkedin.com/in/mckabue) | {{< fa brands github >}} [github.com/mckabue](https://github.com/mckabue)
 
 ## [Pro]{.char-color}file
-Ten years building software. I now work full-time on Oark, writing at ToKnow.ai and building Blober.io. Before that, I spent five years at Microsoft building AI-powered, agentic experiences in M365 Copilot. Earlier I founded Oark Library and grew it to 130,000 users and 400,000 resources before archiving it in 2024. I hold an MSc in Data Science from Strathmore.
+Ten years building software. I now run Oark full-time: we build iTax Help and Blober.io, publish ToKnow.ai, and help other teams build, ship and run software, including SEO and AI deployment. Before that, I spent five years at Microsoft building AI-powered, agentic experiences in M365 Copilot. Earlier I founded Oark Library and grew it to 130,000 users and 400,000 materials before archiving it in 2024. I hold an MSc in Data Science from Strathmore.
 
 
 ## [Wor]{.char-color}k Experience
@@ -12,7 +12,9 @@ Ten years building software. I now work full-time on Oark, writing at ToKnow.ai 
 ### [Fou]{.char-color}nder, [Oark](https://oarklimited.com/)
 *Jul 2026 - Present*
 :::
-  - Writing at [ToKnow.ai](https://toknow.ai/) and building [Blober.io](https://blober.io/)
+  - Run Oark's software consulting: helping teams build, ship and run software, from architecture and cloud cost reviews to SEO and AI deployment
+  - Built [iTax Help](https://itax.ke/), Kenyan tax made simple from a first payslip to a company's monthly return; its P10 PAYE upload file matches one KRA accepted, byte for byte
+  - Building [Blober.io](https://blober.io/) and writing at [ToKnow.ai](https://toknow.ai/)
   - Previously built Oark Library to 130,000 users; archived in 2024
 
 ***Technologies:** TypeScript, React, Python, Node.js, Azure, AWS*
@@ -73,22 +75,28 @@ Ten years building software. I now work full-time on Oark, writing at ToKnow.ai 
 ## [Pro]{.char-color}jects & Initiatives
 
 ::: {.d-flex .justify-content-between .flex-wrap}
+### [iTa]{.char-color}x Help
+*2026 - Present*
+:::
+Kenyan tax, made simple, for everyone in Kenya from a first payslip to a company's monthly return. A web app that prepares KRA's monthly P10 PAYE return in the browser, without KRA's macro-enabled Excel workbook, and builds an upload file that matches one KRA accepted, byte for byte. It also has PAYE, NSSF, SHA/SHIF and housing levy calculators, KRA's fringe benefit tax rates and publications, and a check that an accountant (ICPAK) or advocate (LSK) is registered. Built with TypeScript, React and Hono on Cloudflare Workers. [Visit Site](https://itax.ke/)
+
+::: {.d-flex .justify-content-between .flex-wrap}
 ### [Blo]{.char-color}ber.io
 *Dec 2025 - Present*
 :::
-A local-first workflow engine for cloud storage transfers with metadata-aware path organisation. Users wire up source and destination providers (S3, Azure Blob, Google Drive, Dropbox), define how files should be reorganised on arrival, and run the transfer locally. Credentials never leave their machine. [Visit Site](https://blober.io/)
+The safest, easiest way to move cloud files. A local-first workflow engine for cloud storage transfers with metadata-aware path organisation. Users wire up source and destination providers (S3, Azure Blob, Google Drive, Dropbox), define how files should be reorganised on arrival, and run the transfer locally. Credentials never leave their machine. [Visit Site](https://blober.io/)
 
 ::: {.d-flex .justify-content-between .flex-wrap}
 ### [ToK]{.char-color}now.ai
 *May 2024 - Present*
 :::
-Where I write about AI, security, finance, and technology. [Visit Site](https://toknow.ai/)
+Information to knowledge: research and writing on AI, security, finance, and technology, with about 390 posts so far. [Visit Site](https://toknow.ai/)
 
 ::: {.d-flex .justify-content-between .flex-wrap}
 ### [@mc]{.char-color}kabue/react-validate
 *2025 - Present*
 :::
-A lightweight, flexible, and type-safe React form validation hook with zero dependencies. [View on npm](https://www.npmjs.com/package/@mckabue/react-validate)
+A type-safe React form validation hook with zero dependencies. [View on npm](https://www.npmjs.com/package/@mckabue/react-validate)
 
 ::: {.d-flex .justify-content-between .flex-wrap}
 ### [@mc]{.char-color}kabue/react-use-async
@@ -106,7 +114,7 @@ An ESLint rule that disallows consecutive function parameters sharing the same t
 ### [Oar]{.char-color}k Library (Founder)
 *2017 - 2024*
 :::
-A digital education hub I built from scratch. It grew to 130,000 users, 400,000 resources, and a peak of 1,500 new signups a day, with almost no marketing budget. [Archived Site](https://web.archive.org/web/20240917192838/https://oarklibrary.com/)
+A digital library for academic and educational resources, built from scratch. It grew to 130,000 users, 400,000 resources, and a peak of 1,500 new signups a day, with almost no marketing budget. [Archived Site](https://web.archive.org/web/20240917192838/https://oarklibrary.com/)
 
  - Engineered the platform end-to-end: web, mobile, and backend
  - Hired and led the engineering team
