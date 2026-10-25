@@ -13,8 +13,7 @@ Ten years building software. I now run Oark full-time: we build iTax Help and Bl
 *Jul 2026 - Present*
 :::
   - Run Oark's software consulting: helping teams build, ship and run software, from architecture and cloud cost reviews to SEO and AI deployment
-  - Built [iTax Help](https://itax.ke/), Kenyan tax made simple from a first payslip to a company's monthly return; its P10 PAYE upload file matches one KRA accepted, byte for byte
-  - Building [Blober.io](https://blober.io/) and writing at [ToKnow.ai](https://toknow.ai/)
+  - Building [Blober.io](https://blober.io/), Built [iTax Help](https://itax.ke/) and writing at [ToKnow.ai](https://toknow.ai/)
   - Previously built Oark Library to 130,000 users; archived in 2024
 
 ***Technologies:** TypeScript, React, Python, Node.js, Azure, AWS*
